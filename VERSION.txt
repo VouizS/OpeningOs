@@ -1,2 +1,10 @@
-Opening OS v0.1.0 — IPTV Launcher Base
-Gerado em: 2026-07-06 16:16:56
+Opening OS v0.1.1 — Projector UI Fix
+Gerado em: 2026-07-07 07:31:26
+
+Mudanças:
+- Tema preto sólido + foco âmbar para projeção.
+- UI adaptativa por resolução/DPI.
+- Cards e textos reduzidos para evitar sobreposição.
+- Todos os apps instalados na aba APPS.
+- Seções CLIMA e JOGOS sem dados falsos.
+- Configuração para tentar escolher app Home.
